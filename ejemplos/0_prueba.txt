@@ -1,0 +1,27 @@
+c FILE: myciel3.col
+c SOURCE: Michael Trick (trick@cmu.edu)
+c DESCRIPTION: Graph based on Mycielski transformation.
+c Triangle free (clique number 2) but increasing
+c coloring number
+c vertices 3, 4, 6, 7, 8, 9, 10, 11 ,12, 17, 19, 26 35, 37, 45, 46, 58, 59
+p edge 11 20
+e 12 3
+e 11 3
+e 17 3
+e 19 3
+e 11 8
+e 26 3
+e 11 10
+e 35 3
+e 37 3
+e 3 10
+e 45 3
+e 46 3
+e 4 10
+e 58 3
+e 59 3
+e 6 11
+e 7 11
+e 8 11
+e 9 11
+e 10 11

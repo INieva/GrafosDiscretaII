@@ -1,0 +1,10 @@
+c circulo de 5 vetices
+c vertices {0, 1, 2, 3, 4}
+c ciclo impar
+c en orden natural el numero cromatico es 3
+p edge 5 5
+e 0 1
+e 1 2
+e 2 3
+e 3 4
+e 4 0

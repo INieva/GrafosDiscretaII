@@ -1,0 +1,9 @@
+c circulo de 4 vetices
+c vertices {0, 1, 2, 3}
+c cliclo par
+c en orden natural el numero cromatico es 2
+p edge 4 4
+e 0 1
+e 1 2
+e 2 3
+e 3 0
